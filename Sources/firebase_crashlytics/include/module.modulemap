@@ -1,0 +1,4 @@
+module firebase_crashlytics{
+   header "firebase_crashlytics.h"
+   export *
+}

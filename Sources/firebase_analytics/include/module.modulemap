@@ -1,0 +1,4 @@
+module firebase_analytics{
+   header "firebase_analytics.h"
+   export *
+}

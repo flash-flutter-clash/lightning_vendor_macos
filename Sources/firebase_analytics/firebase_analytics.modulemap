@@ -1,0 +1,6 @@
+framework module firebase_analytics {
+  umbrella header "firebase_analytics.h"
+  
+  export *
+  module * { export * }
+}

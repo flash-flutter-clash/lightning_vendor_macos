@@ -1,0 +1,4 @@
+module sqflite{
+   header "sqflite.h"
+   export *
+}
